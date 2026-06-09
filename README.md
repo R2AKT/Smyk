@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-License addendum - https://github.com/R2AKT/SysTick/blob/main/Addendum.txt
+License addendum - https://github.com/R2AKT/Smyk/blob/main/Addendum.txt
 
 # Smyk
 <img src="Smyk_top.png">
